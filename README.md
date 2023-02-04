@@ -1,4 +1,4 @@
-# K12-Chemistry-S2_SY2223_Assignments
+# K12-Chemistry-S2_SY2223
 
 K12 - Chemistry Lessons and Formulas
 
